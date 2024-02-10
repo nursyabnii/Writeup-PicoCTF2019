@@ -17,7 +17,7 @@ The clue provided here might seem obscure, but once again, it pertains to the wi
 
 We connect to the service and get the following output:
 ```console
-root@kali:/Cryptography/la cifra de# nc jupiter.challenges.picoctf.org 58295
+root@kali:/Cryptography/la-cifra-de# nc jupiter.challenges.picoctf.org 58295
 Encrypted message:
  Ne iy nytkwpsznyg nth it mtsztcy vjzprj zfzjy rkhpibj nrkitt ltc tnnygy ysee itd tte cxjltk
 
