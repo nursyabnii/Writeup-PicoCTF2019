@@ -1,10 +1,9 @@
 # caesar
-
+### AUTHOR: SANJAY C/DANIEL TUNITIS
 ### Challenge Points: 100
 
 ## Category
 Cryptography
-### AUTHOR: SANJAY C/DANIEL TUNITIS
 
 ## Challenge Description
 Decrypt this [message](ciphertext).

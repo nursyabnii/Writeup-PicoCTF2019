@@ -1,11 +1,11 @@
 # Flags
-### Points: 200
+### AUTHOR: DANNY
+### Challenge Points: 200
 
 ## Category
 Cryptography
-### AUTHOR: DANNY
 
-## Problem Statement
+## Challenge Description
 What do the [flags](flag.png) mean?
 ## Hints
 The flag is in the format PICOCTF{}
