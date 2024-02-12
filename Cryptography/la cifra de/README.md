@@ -61,15 +61,12 @@ Bellaso’s second booklet appeared in 1555 as a continuation of the first. The 
 
 The key was:
 ```
-Key	"flag"
-Key length	4
-Cipher text length	952
-Ratio
-(cipher_len:key_len)	238.00
-Difficulty
-	easy
-Clear text score (fitness)
-	99.57
+Key				"flag"
+Key length			4
+Cipher text length		951
+Ratio (cipher_len:key_len)	237.75
+Difficulty			easy
+Clear text score (fitness)	99.57
 ```
 
 ## Flag
