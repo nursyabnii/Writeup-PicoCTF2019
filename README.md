@@ -4,6 +4,8 @@ Solutions and writeups for the picoCTF 2019 platform
 
 ## Category
 ### Cryptography
+| Cryptography  |
+| ------------- |
 | [13](/Cryptography/13/README.md)|
 | [Easy1](/Cryptography/Easy1/README.md)|
 | [Flags](/Cryptography/Flags/README.md)|
@@ -15,6 +17,8 @@ Solutions and writeups for the picoCTF 2019 platform
 | [waves over lambda](/Cryptography/waves%20over%20lambda/README.md)|
 
 ### Forensics
+| Forensics  |
+| ------------- |
 | [Glory of the Garden](/Forensics/Glory%20of%20the%20Garden/README.md)|
 | [So Meta](/Forensics/So%20Meta/README.md)|
 | [What Lies Within](/Forensics/What%20Lies%20Within/README.md)|
