@@ -20,5 +20,12 @@ This proved to be one of the more challenging tasks within the Forensics categor
 
 <br>
 
+The 3 numbers behind are decimal numbers, we can decode decimal to ascii using the [script](script.py) I have created below.
+
+```console
+root@kali:/Forensics/WhitePages# py script.py
+picoCTF{p1LLf3r3d_data_v1a_st3g0}
+```
+
 ## Flag
 `picoCTF{p1LLf3r3d_data_v1a_st3g0}`
