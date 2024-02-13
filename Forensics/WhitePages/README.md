@@ -17,7 +17,7 @@ All we observe here are whitespace characters. Nonetheless, it's notable that va
 These two characters, alternating within the file, suggest a binary pattern. Substituting these characters with 0s and 1s and then converting them into ASCII using a script, such as the one I authored named [whitepgaes.py](whitepages.py), reveals the binary representation of our flag. 
 picoCTF{not_all_spaces_are_created_equal_3e2423081df9adab2a9d96afda4cfad6}
 ```console
-root@kali:/Forensics/WhitePages#py whitepages.py
+root@kali:/Forensics/WhitePages# py whitepages.py
             picoCTF
 
                     SEE PUBLIC RECORDS & BACKGROUND REPORT
