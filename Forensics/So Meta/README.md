@@ -15,6 +15,6 @@ The title and clue suggest examining the metadata of this file. There are variou
 
 <br>
 
-![Screenshot](screenshot.JPG)
+![Screenshot](Screenshot.png)
 ## Flag
 `picoCTF{s0_m3ta_eb36bf44}`
