@@ -17,4 +17,4 @@ In response to the initial clue regarding this problem, images were transmitted 
 
 ![Screenshot](Screenshot.png)
 ## Flag
-`picoCTF{beep-boop-im-in-space}`
+`picoCTF{beep_boop_im_in_space}`
