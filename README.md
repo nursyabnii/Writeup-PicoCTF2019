@@ -29,7 +29,22 @@ Solutions and writeups for the picoCTF 2019 platform
 | [shark on wire 1](/Forensics/shark%20on%20wire%201/README.md)|
 | [shark on wire 2](/Forensics/shark%20on%20wire%202/README.md)|
 
-### Forensics
+### General Skills
+| General Skills  |
+| ------------- |
+| [1_wanna_b3_a_r0ck5tar](/General%20Skills/1_wanna_b3_a_r0ck5tar/README.md)|
+| [2Warm](/General%20Skills/2Warm/README.md)|
+| [Based](/General%20Skills/Based/README.md)|
+| [Bases](/General%20Skills/Bases/README.md)|
+| [First Grep](/General%20Skills/First%20Grep/README.md)|
+| [Lets Warm Up](/General%20Skills/Lets%20Warm%20Up/README.md)|
+| [mus1c](/General%20Skills/mus1c/README.md)|
+| [plumbing](/General%20Skills/plumbing/README.md)|
+| [strings it](/General%20Skills/strings%20it/README.md)|
+| [Warmed Up](/General%20Skills/Warmed%20Up/README.md)|
+| [what's a net cat](/General%20Skills/what's%20a%20net%20cat/README.md)|
+
+### Web Exploitation
 | Web Exploitation  |
 | ------------- |
 | [Client-side-again](/Web%20Exploitation/[Client-side-again/README.md)|
