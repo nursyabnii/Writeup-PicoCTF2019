@@ -32,7 +32,15 @@ Solutions and writeups for the picoCTF 2019 platform
 ### Forensics
 | Web Exploitation  |
 | ------------- |
+| [Client-side-again](/Web%20Exploitation/[Client-side-again/README.md)|
+| [dont-use-client-side](/Web%20Exploitation/dont-use-client-side/README.md)|
 | [Insp3ct0r](/Web%20Exploitation/Insp3ct0r/README.md)|
+| [Irish-Name-Repo 1](/Web%20Exploitation/Irish-Name-Repo%201/README.md)|
+| [Irish-Name-Repo 2](/Web%20Exploitation/Irish-Name-Repo%202/README.md)|
+| [Irish-Name-Repo 3](/Web%20Exploitation/Irish-Name-Repo%203/README.md)|
+| [logon](/Web%20Exploitation/logon/README.md)|
+| [picobrowser](/Web%20Exploitation/picobrowser/README.md)|
+| [where are the robots](/Web%20Exploitation/where%20are%20the%20robots/README.md)|
 
 
 
