@@ -4,6 +4,11 @@ Solutions and writeups for the picoCTF 2019 platform
 
 ## Challenge
 ### Cryptography
+
+<details>
+
+<summary>Cryptography</summary>
+
 | Cryptography  |
 | ------------- |
 | [13](/Cryptography/13/README.md)|
@@ -15,6 +20,12 @@ Solutions and writeups for the picoCTF 2019 platform
 | [caesar](/Cryptography/caesar/README.md)|
 | [la cifra de](/Cryptography/la%20cifra%20de/README.md)|
 | [waves over lambda](/Cryptography/waves%20over%20lambda/README.md)|
+
+</details>
+
+<details>
+
+<summary>Forensics</summary>
 
 ### Forensics
 | Forensics  |
@@ -29,7 +40,14 @@ Solutions and writeups for the picoCTF 2019 platform
 | [shark on wire 1](/Forensics/shark%20on%20wire%201/README.md)|
 | [shark on wire 2](/Forensics/shark%20on%20wire%202/README.md)|
 
+</details>
+
 ### General Skills
+
+<details>
+
+<summary>General Skills</summary>
+
 | General Skills  |
 | ------------- |
 | [1_wanna_b3_a_r0ck5tar](/General%20Skills/1_wanna_b3_a_r0ck5tar/README.md)|
@@ -44,7 +62,14 @@ Solutions and writeups for the picoCTF 2019 platform
 | [Warmed Up](/General%20Skills/Warmed%20Up/README.md)|
 | [what's a net cat](/General%20Skills/what's%20a%20net%20cat/README.md)|
 
+</details>
+
 ### Web Exploitation
+
+<details>
+
+<summary>Web Exploitation</summary>
+
 | Web Exploitation  |
 | ------------- |
 | [Client-side-again](/Web%20Exploitation/[Client-side-again/README.md)|
@@ -56,6 +81,8 @@ Solutions and writeups for the picoCTF 2019 platform
 | [logon](/Web%20Exploitation/logon/README.md)|
 | [picobrowser](/Web%20Exploitation/picobrowser/README.md)|
 | [where are the robots](/Web%20Exploitation/where%20are%20the%20robots/README.md)|
+
+</details>
 
 
 
