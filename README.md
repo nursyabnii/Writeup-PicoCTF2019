@@ -3,12 +3,13 @@
 Solutions and writeups for the picoCTF 2019 platform
 
 ## Challenge
-### Cryptography
+
 
 <details>
 
 <summary>Cryptography</summary>
 
+### Cryptography
 | Cryptography  |
 | ------------- |
 | [13](/Cryptography/13/README.md)|
@@ -42,12 +43,11 @@ Solutions and writeups for the picoCTF 2019 platform
 
 </details>
 
-### General Skills
-
 <details>
 
 <summary>General Skills</summary>
 
+### General Skills
 | General Skills  |
 | ------------- |
 | [1_wanna_b3_a_r0ck5tar](/General%20Skills/1_wanna_b3_a_r0ck5tar/README.md)|
@@ -64,12 +64,11 @@ Solutions and writeups for the picoCTF 2019 platform
 
 </details>
 
-### Web Exploitation
-
 <details>
 
 <summary>Web Exploitation</summary>
 
+### Web Exploitation
 | Web Exploitation  |
 | ------------- |
 | [Client-side-again](/Web%20Exploitation/[Client-side-again/README.md)|
