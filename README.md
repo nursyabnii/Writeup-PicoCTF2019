@@ -31,7 +31,7 @@ Solutions and writeups for the picoCTF 2019 platform
 ### Forensics
 | Forensics  |
 | ------------- |
-| [Glory of the Garden](/Forensics/Glory%20of%20the%20Garden/README.md)|
+| [Glory of the Garden](/Forensics/Glory%20of%20The%20Garden/README.md)|
 | [So Meta](/Forensics/So%20Meta/README.md)|
 | [What Lies Within](/Forensics/What%20Lies%20Within/README.md)|
 | [WhitePages](/Forensics/WhitePages/README.md)|
@@ -71,7 +71,7 @@ Solutions and writeups for the picoCTF 2019 platform
 ### Web Exploitation
 | Web Exploitation  |
 | ------------- |
-| [Client-side-again](/Web%20Exploitation/[Client-side-again/README.md)|
+| [Client-side-again](/Web%20Exploitation/Client-side-again/README.md)|
 | [dont-use-client-side](/Web%20Exploitation/dont-use-client-side/README.md)|
 | [Insp3ct0r](/Web%20Exploitation/Insp3ct0r/README.md)|
 | [Irish-Name-Repo 1](/Web%20Exploitation/Irish-Name-Repo%201/README.md)|
